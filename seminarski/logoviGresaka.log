@@ -1,0 +1,93 @@
+[07-Feb-2020 12:55:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:55:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[07-Feb-2020 12:55:47 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:55:47 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[07-Feb-2020 12:55:48 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:55:48 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[07-Feb-2020 12:55:48 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\klase\vestClass.php on line 145
+[07-Feb-2020 12:55:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\itehProjekat\cokolade\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\klase\vestClass.php on line 148
+[07-Feb-2020 12:55:51 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:55:51 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[07-Feb-2020 12:56:02 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:56:02 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[07-Feb-2020 12:56:08 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 9
+[07-Feb-2020 12:56:08 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\itehProjekat\cokolade\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:57:51 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:57:51 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:57:59 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:57:59 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:00 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:00 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:00 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 14:58:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 14:58:04 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:04 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 14:58:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 14:58:13 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:13 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:14 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:14 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 14:58:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 14:58:18 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:18 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 14:58:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 15:00:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 15:00:33 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 15:00:33 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'cokolada' in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 9
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\konekcija.php on line 10
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 145
+[08-Feb-2020 15:00:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ProjekatIteh\seminarski\kontroler.php(109): Vest->vratiPodatke(Object(mysqli))
+#1 {main}
+  thrown in C:\xampp\htdocs\ProjekatIteh\seminarski\klase\vestClass.php on line 148
+[08-Feb-2020 15:02:09 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\ProjekatIteh\seminarski\adminStrane.php on line 99
