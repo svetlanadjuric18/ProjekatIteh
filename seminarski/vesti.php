@@ -44,7 +44,7 @@ function sortiraj(sortiranje){
         output += '<a href="vest.php?id='+podatak.vestID+'"><h4>'+podatak.naslov+'</h4></a>';
         output += '</div>';
         output += '<p>'+skraceno+'</p>';
-        output += '<a href="vest.php?id='+podatak.vestID+'">nastavi citanje <i class="fa fa-angle-right"></i></a>';
+        output += '<a href="vest.php?id='+podatak.vestID+'"> <i>nastavi citanje</i> <i class="fa fa-angle-right"></i></a>';
         output += '</div>';
         output += '</div>';
         output += '</div>';
